@@ -2,6 +2,10 @@
 
 ## (for indie makers)
 
+### Monthly Visits > 500K
+
+- https://webcatalog.io/
+
 ### Monthly Visits > 100K
 
 - https://betalist.com/
