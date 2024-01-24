@@ -17,5 +17,6 @@
 ### Monthly Visits > 10K
  
 - https://www.launchingnext.com/
+- https://shoutout.io/submit/garden-of-indies/
 - https://pitchwall.co/
 - https://www.sideprojectors.com/#/
