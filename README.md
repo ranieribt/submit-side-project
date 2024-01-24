@@ -10,6 +10,10 @@
 
 - https://betalist.com/
 
+### Monthly Visits > 50K
+ 
+- https://www.uneed.best/
+
 ### Monthly Visits > 10K
  
 - https://www.launchingnext.com/
