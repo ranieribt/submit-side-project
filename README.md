@@ -1,1 +1,3 @@
-# submit-side-project
+# Places to Submit your Side Projects
+
+Focus on indie makers
