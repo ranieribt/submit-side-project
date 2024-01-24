@@ -4,8 +4,9 @@
 
 ### Monthly Visits > 100K
 
-- https://www.launchingnext.com/
+- https://betalist.com/
 
 ### Monthly Visits > 10K
  
+- https://www.launchingnext.com/
 - https://pitchwall.co/
