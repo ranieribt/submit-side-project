@@ -17,12 +17,13 @@
 ### Monthly Visits > 10K
  
 - https://www.launchingnext.com/
-- https://shoutout.io/submit/garden-of-indies/
+- https://awesomeindie.com/
 - https://pitchwall.co/
+- https://shoutout.io/submit/garden-of-indies/
 - https://www.sideprojectors.com/#/
 - http://10words.io/
 
-[] review this:
+- [] review this:
 - https://www.indiehackers.com/post/how-to-get-exposure-to-the-first-1000-visitors-e8aad0ef12
 - https://github.com/nilandev/startup-directories/blob/master/README.md
 - roastme.ru
