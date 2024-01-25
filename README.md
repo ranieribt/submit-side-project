@@ -34,8 +34,8 @@
 
 - https://startuproasters.com/
 
-- [] review this:
+### [review this][]
 - https://www.indiehackers.com/post/how-to-get-exposure-to-the-first-1000-visitors-e8aad0ef12
 - https://github.com/nilandev/startup-directories/blob/master/README.md
 - https://www.producthunt.com/discussions/directory-sites-do-you-own-one
-- roastme.ru
+
