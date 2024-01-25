@@ -2,6 +2,10 @@
 
 ## (for indie makers)
 
+### Monthly Visits > 1M
+
+- https://alternativeto.net/
+
 ### Monthly Visits > 500K
 
 - https://webcatalog.io/
