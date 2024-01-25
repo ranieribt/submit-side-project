@@ -5,6 +5,7 @@
 ### Monthly Visits > 1M
 
 - https://alternativeto.net/
+- https://www.geekwire.com/startup-list/
 
 ### Monthly Visits > 500K
 
