@@ -10,6 +10,7 @@
 ### Monthly Visits > 500K
 
 - https://webcatalog.io/
+- https://stackshare.io/submit
 
 ### Monthly Visits > 100K
 
