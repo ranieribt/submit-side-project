@@ -20,3 +20,4 @@
 - https://shoutout.io/submit/garden-of-indies/
 - https://pitchwall.co/
 - https://www.sideprojectors.com/#/
+- http://10words.io/
