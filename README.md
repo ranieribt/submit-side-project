@@ -24,7 +24,7 @@
 ### Monthly Visits > 10K
  
 - https://www.launchingnext.com/
-- https://launched.io/ (36.6K)
+- https://launched.io/ ≈ 36.6K
 - https://awesomeindie.com/
 - https://pitchwall.co/
 - https://shoutout.io/submit/garden-of-indies/
