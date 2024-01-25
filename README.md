@@ -23,6 +23,10 @@
 - https://www.sideprojectors.com/#/
 - http://10words.io/
 
+### Monthly Visits > 1K
+
+- https://startuproasters.com/
+
 - [] review this:
 - https://www.indiehackers.com/post/how-to-get-exposure-to-the-first-1000-visitors-e8aad0ef12
 - https://github.com/nilandev/startup-directories/blob/master/README.md
