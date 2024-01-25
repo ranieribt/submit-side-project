@@ -21,3 +21,6 @@
 - https://pitchwall.co/
 - https://www.sideprojectors.com/#/
 - http://10words.io/
+
+[] review this:
+- https://www.indiehackers.com/post/how-to-get-exposure-to-the-first-1000-visitors-e8aad0ef12
