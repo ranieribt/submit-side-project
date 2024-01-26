@@ -3,11 +3,10 @@
 ## (for indie makers)
 
 | URL | Monthly Visits ≈ |
-| ------------- | ------------- |
-| https://alternativeto.net/  |  |
-| https://alternativeto.net/  |  |
-| https://www.geekwire.com/startup-list/  |  |
-| https://webcatalog.io/ |  |
+| --- | --- |
+| https://alternativeto.net/  | 5.6M |
+| https://www.geekwire.com/startup-list/  | 1.2M |
+| https://webcatalog.io/ | 621.3K |
 | https://stackshare.io/submit |  |
 | https://startupstash.com/ |  |
 | https://betalist.com/ |  |
