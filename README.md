@@ -16,9 +16,7 @@
 | https://awesomeindie.com/ |  |
 | https://pitchwall.co/ |  |
 | https://shoutout.io/submit/garden-of-indies/ |  |
-| https://www.sideprojectors.com/#/ |  |
 | http://10words.io/ |  |
-| https://startuproasters.com/ |  |
 
 ### [review this][]
 - https://www.indiehackers.com/post/how-to-get-exposure-to-the-first-1000-visitors-e8aad0ef12
