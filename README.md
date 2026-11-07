@@ -5,6 +5,7 @@
 | URL | Monthly Visits ≈ |
 | --- | --- |
 | https://alternativeto.net/  | 5.6M |
+| https://meetnewai.com/submit  |  |
 | https://www.geekwire.com/startup-list/  | 1.2M |
 | https://webcatalog.io/ | 621.3K |
 | https://stackshare.io/submit |  |
